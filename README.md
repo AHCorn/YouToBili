@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://www.bilibili.com/favicon.ico" width="30" height="30" style="vertical-align: text-bottom;"> [YouToBili](https://github.com/AHCorn/Bilibili-Auto-Quality/raw/main/Bilibili-Auto-Quality.user.js)
+# <img src="https://www.bilibili.com/favicon.ico" width="30" height="30" style="vertical-align: text-bottom;"> [YouToBili](https://github.com/AHCorn/YouToBili/raw/main/YoutToBili.user.js)
 
 一个简单的油猴脚本，在哔哩哔哩搜索当前 Youtube 视频的标题。
 
